@@ -14,4 +14,4 @@ Full-stack Developer. Building complete web applications from design to deployme
 * Web scraping and automation with Python
 * Responsive and pixel-perfect layout design
 
-**UA (Native) • EN (A2)**
+**UA (Native) • EN (B2)**
