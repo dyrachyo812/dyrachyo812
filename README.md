@@ -1,16 +1,17 @@
-## Hi there 👋
+# dyrachyo812
 
-<!--
-**dyrachyo812/dyrachyo812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack Developer. Building complete web applications from design to deployment.
 
-Here are some ideas to get you started:
+### Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Frontend:** HTML5, CSS3, JavaScript, React
+* **Backend:** Node.js, Python
+* **Tools & Infrastructure:** Git, Docker, Figma
+
+### Focus
+
+* Full-stack web development (End-to-End)
+* Web scraping and automation with Python
+* Responsive and pixel-perfect layout design
+
+**UA (Native) • EN (A2)**
