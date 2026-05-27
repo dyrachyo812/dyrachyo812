@@ -54,17 +54,6 @@ Automating workflows and shipping Telegram bots with Python.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyrachyo812&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyrachyo812&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&cache_seconds=1800)
-</div>
-
----
-
 <div align="center">
 
 **Open to work · Ukraine, Kyiv · Available for remote**
