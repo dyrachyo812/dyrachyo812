@@ -8,7 +8,7 @@ Building web applications end-to-end — from pixel-perfect UI to production-rea
 Automating workflows and shipping Telegram bots with Python.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dyrachyo812.github.io-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://dyrachyo812.github.io/portfolio/)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/bogdan-petrenko/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bogdan-petrenko/)
 
 </div>
 
