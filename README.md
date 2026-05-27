@@ -51,7 +51,6 @@ Automating workflows and shipping Telegram bots with Python.
 |---|---|---|
 | [**ContourX**](https://github.com/dyrachyo812/ContourX) | Desktop app for extracting contours from photos | Python, OpenCV, CustomTkinter |
 | [**Portfolio App**](https://github.com/dyrachyo812/portfolio) | Contact form with REST API & Docker deployment | Node.js, Express, Docker |
-| [**CoreLumBot**](https://github.com/dyrachyo812/corelumbot) | Telegram bot for automation | Python, aiogram |
 
 ---
 
